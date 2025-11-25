@@ -2,7 +2,11 @@
 
 This project implements **Neural Style Transfer (NST)** to create
 artwork by blending the *content* of one image with the *style* of
-another. The complete workflow is provided in the Jupyter Notebook:
+another. 
+<img width="1801" height="588" alt="image" src="https://github.com/user-attachments/assets/76e7fe76-f098-4d06-9e84-53732d44ec26" />
+
+
+The complete workflow is provided in the Jupyter Notebook:
 
     Art_Generation_with_Neural_Style_Transfer.ipynb
 
